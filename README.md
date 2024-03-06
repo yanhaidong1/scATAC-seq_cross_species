@@ -1,9 +1,10 @@
 # scATAC-seq_cross_species
 
-This pipeline encompasses all the necessary scripts for performing cross-species analyses. 
-Typically, this pipeline includes five steps:
-Steps 1-2: Comprehensive characterizations of ACRs, TFs, motifs per species.
-Step
+This pipeline comprises essential scripts for conducting cross-species analyses. Generally, it consists of five distinct steps:
+
+Steps 1-2: Thorough characterizations of ACRs, TFs, and motifs for each species.
+Step 3: Conducting cross-species analyses using the outcomes from the preceding two steps.
+Steps 4-5: Investigating the association of H3K27me3 with ACRs for each species.
 
 Additionally, it incorporates an R script designed to generate the plots featured in the manuscript.
 
